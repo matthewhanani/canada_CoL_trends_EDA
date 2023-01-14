@@ -1,3 +1,3 @@
 # Trends in Canada's Cost of Living of Over the Last 23 Years: Exploratory Data Analysis
-first data project
+All the code used for my Medium article "Trends in Canada's Cost of Living of Over the Last 23 Years: Exploratory Data Analysis" is archived here.
 

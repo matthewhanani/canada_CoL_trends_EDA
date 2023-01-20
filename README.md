@@ -2,6 +2,8 @@
 
 All the code used for my Medium article "Trends in Canada's Cost of Living of Over the Last 23 Years: Exploratory Data Analysis" is archived here in the 'dp1.ipynb' file.
 
+Link: https://medium.com/@matthewhanani19/trends-in-canadas-cost-of-living-of-over-the-last-23-years-exploratory-data-analysis-8d66ddcfcb0
+
 All visualizations are archived here as well.
 
 ![fig1](https://user-images.githubusercontent.com/103132104/212483483-17cb0cd0-fa00-4e4d-a327-d07226d1e580.png)
